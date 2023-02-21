@@ -8,6 +8,6 @@ Also used [Pinia](https://pinia.vuejs.org/introduction.html) as state management
 
 `yarn dev`
 
-## Script for building
+## Command for building
 
 `yarn build`
